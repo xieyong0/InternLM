@@ -1,10 +1,10 @@
 ## 基础作业 (结营必做)
 
 ### 使用 InternLM2-Chat-1.8B 模型生成 300 字的小故事（需截图）
-- 生成了一个300字的英文故事：
-<img width="950" alt="course 2 homework 01" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/9790c7cc-948c-4c90-b88c-955edc1e12a1">
+- 生成了一个300字的中文神话题材故事：
+<img width="950" alt="course 2 homework 01" src="images/300.png">
 
-- 再生成了一个中文故事：
+- 再生成了一个300次的奇幻题材故事：
 <img width="656" alt="course 2 homework 02" src="https://github.com/soloxue/Intern.LLM.training.camp.S2.2024.03/assets/36829965/a1206bc1-860a-4716-8aff-6940c916fd43">
 
 
